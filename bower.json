@@ -1,0 +1,21 @@
+{
+  "name": "angularApp",
+  "authors": [
+    "Lipien <adam@pawtel.pl>"
+  ],
+  "description": "Adam",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
